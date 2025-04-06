@@ -1,0 +1,2 @@
+# hajimi
+none
